@@ -1,0 +1,12 @@
+hello;world;xxx
+world;world;xxx
+pepa;world;xxx
+novak;world;xxx
+karel;world;xxx
+vikto;world;xxxr
+xxx;world;xxx
+foo;world;xxx
+bar;world;xxx
+baz;world;xxx
+qux;world;xxx
+mui;world;xxx

@@ -1,0 +1,7 @@
+U:\Sibrava\3.rocnik\resene-priklady\PRG\16-decorator-row\DecoratorRow\DecoratorRow\bin\Debug\DecoratorRow.exe.config
+U:\Sibrava\3.rocnik\resene-priklady\PRG\16-decorator-row\DecoratorRow\DecoratorRow\bin\Debug\DecoratorRow.exe
+U:\Sibrava\3.rocnik\resene-priklady\PRG\16-decorator-row\DecoratorRow\DecoratorRow\bin\Debug\DecoratorRow.pdb
+U:\Sibrava\3.rocnik\resene-priklady\PRG\16-decorator-row\DecoratorRow\DecoratorRow\obj\Debug\DecoratorRow.csprojResolveAssemblyReference.cache
+U:\Sibrava\3.rocnik\resene-priklady\PRG\16-decorator-row\DecoratorRow\DecoratorRow\obj\Debug\DecoratorRow.csproj.CoreCompileInputs.cache
+U:\Sibrava\3.rocnik\resene-priklady\PRG\16-decorator-row\DecoratorRow\DecoratorRow\obj\Debug\DecoratorRow.exe
+U:\Sibrava\3.rocnik\resene-priklady\PRG\16-decorator-row\DecoratorRow\DecoratorRow\obj\Debug\DecoratorRow.pdb

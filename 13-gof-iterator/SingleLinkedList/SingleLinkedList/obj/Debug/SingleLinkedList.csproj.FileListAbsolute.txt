@@ -1,0 +1,7 @@
+C:\Users\sibrava\Desktop\SingleLinkedList\SingleLinkedList\bin\Debug\SingleLinkedList.exe.config
+C:\Users\sibrava\Desktop\SingleLinkedList\SingleLinkedList\bin\Debug\SingleLinkedList.exe
+C:\Users\sibrava\Desktop\SingleLinkedList\SingleLinkedList\bin\Debug\SingleLinkedList.pdb
+C:\Users\sibrava\Desktop\SingleLinkedList\SingleLinkedList\obj\Debug\SingleLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\sibrava\Desktop\SingleLinkedList\SingleLinkedList\obj\Debug\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\sibrava\Desktop\SingleLinkedList\SingleLinkedList\obj\Debug\SingleLinkedList.exe
+C:\Users\sibrava\Desktop\SingleLinkedList\SingleLinkedList\obj\Debug\SingleLinkedList.pdb
