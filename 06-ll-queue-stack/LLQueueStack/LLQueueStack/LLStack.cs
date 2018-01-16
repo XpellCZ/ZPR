@@ -16,10 +16,14 @@ namespace ConsoleApp1
 
             if (this.top != null)
             {
-                this.top.Next = i;
+                Item temp = this.top;
+                this.top = i;
+                this.top.Next = temp;
             }
-
+            else
+            {
             this.top = i;
+            }
         }
 
         public int Pop()
