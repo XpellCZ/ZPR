@@ -25,12 +25,14 @@ namespace ConsoleApp1
                 throw new IndexOutOfRangeException("Full queue");
 
             this.data[(this.start + this.count) % this.data.Length] = value;
+            this.count++;
         }
 
         public int Dequeue()
         {
             int value = this.Peek();
             this.start = (this.start + 1) % this.data.Length;
+            this.count--;
 
             return value;
         }
